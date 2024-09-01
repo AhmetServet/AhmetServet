@@ -1,7 +1,9 @@
 ## Ahmet Servet Polat
 **ICU'26 _CMPE_**
 
-Python, C/C#, Java
+Python, C/C#, Java \
+FullStack \
+DS/ML \
 > I use Arch btw \
 > Enjoyed Ubuntu, Ex-Fedora
 <!---
