@@ -3,7 +3,7 @@
 
 Python, C/C#, Java \
 FullStack \
-DS/ML \
+DS/ML
 > I use Arch btw \
 > Enjoyed Ubuntu, Ex-Fedora
 <!---
