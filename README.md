@@ -3,8 +3,7 @@
 
 ### Skills
 - **Languages**: Python, C/C#, Java  
-- **Development**: Full-Stack Development  
-- **Data Science / Machine Learning**: DS/ML
+- **Development**: Full-Stack, DS/ML
 
 ---
 
