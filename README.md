@@ -9,7 +9,7 @@
 
 > _I use Arch btw_  
 > _Previously enjoyed Ubuntu, ex-Fedora user_
-<!---
-AhmetServet/AhmetServet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+### CONTACT
+- You can contact me through [ahmetservet04@gmail.com](ahmetservet04@gmail.com) or [Linkedin](https://www.linkedin.com/in/ahmetservetpolat/).
