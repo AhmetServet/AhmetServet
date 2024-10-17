@@ -2,7 +2,7 @@
 **Istanbul Commerce University'26 | Computer Engineering (CMPE)**
 
 ### Skills
-- **Languages**: Python, C/C#, Java  
+- **Languages**: Python, C/C#, Java, JS  
 - **Development**: Full-Stack, DS/ML
 
 ---
